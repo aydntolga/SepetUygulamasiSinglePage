@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Sweatshirt",
+      "price": 50,
+      "image":"https://productimages.hepsiburada.net/s/120/300-443/110000069705265.jpg"
+    
+    },
+    {
+      "id": 2,
+      "title": "Boston Sweatshirt",
+      "price": 55,
+      "image":"https://i.pinimg.com/474x/42/90/31/429031a72c5f2b42f77b7a5729666c15.jpg"
+      
+    },
+    {
+      "id": 3,
+      "title": "Air Force 1 Shadow",
+      "price": 200,
+      "image":"https://static.nike.com/a/images/t_default/36d491cd-5b6e-4aa1-b710-c77a53ff4b84/air-force-1-shadow-ayakkab%C4%B1s%C4%B1-lW4FDD.png"
+    },
+    {
+      "id": 4,
+      "title": "Yağmurluk",
+      "price": 100,
+      "image":"https://www.enderspor.com//UserFiles/ProductImages/0/ah5987/orj/nike-m-shld-ghost-fl-erkek-kosu-ceketi-82882.jpg"
+    },
+    {
+      "id":4,
+      "title":"Kyrie Low 5 ",
+      "price":600,
+      "image":"https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.3/w_467,c_limit/fb44cefb-0577-4ac4-8b8a-9c7a6641782e/kyrie-low-5-jewell-loyd-basketbol-ayakkab%C4%B1s%C4%B1-Hvbjk7.png"
+    },
+    {
+      "id":5,
+      "title":"GSW Courtside Statement",
+      "price":100,
+      "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c55dee86-175a-4b7b-9884-9d8fd7c2794e/golden-state-warriors-courtside-statement-edition-jordan-max90-nba-uzun-kollu-ti%C5%9F%C3%B6rt%C3%BC-CHxChx.png"
+    }
+
+
+  ]
